@@ -1,0 +1,1667 @@
+fileFormatVersion: 2
+guid: a54ca47893615a44e96fc7edb5997c86
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b795271ffb36b41a88b4bc64aab08c
+      internalID: -143018208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_1"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 206
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc11301abd35594d9fec8447305e5ef
+      internalID: -1090917311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_2"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 206
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fddcdeffaae79498b052f85d3ac509
+      internalID: -2015277642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_3"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 206
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d256939bb9de250418d891501aa6f2d3
+      internalID: 1980619406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_4"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 206
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6b022d179602e4fa94d2111e1d9847
+      internalID: -94963817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_5"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 206
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2373b8b4f0dcb1347a5206fd12995af9
+      internalID: 1575571343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_6"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 206
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f500df9463a71f24dad39449b22dae77
+      internalID: 1837022391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_7"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feecbc475fde8a409b0e0692ba6ea81
+      internalID: 270494493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_8"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6744fa7a4153eb54892fdf182f475159
+      internalID: 1331360960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_9"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb6ae5662bbe594c8550371b61fb914
+      internalID: -687131493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_10"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2024dca2bb8ac684d81ba904e733cb4d
+      internalID: -1456577570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_11"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d13de9ab6c10e4690302eb30816baf
+      internalID: -294568471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_12"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67ba188e29859844a38b287b5084935
+      internalID: 347760791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_13"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 192
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f11ab6191b77647886903725982bdd
+      internalID: -1641743386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_14"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d0b179a4dd75543b32ea82bd86e55d
+      internalID: 2002341546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_15"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 178
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e91313293aea349b3154a2cca1b904
+      internalID: -308473239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_16"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 178
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee022b6ee0b946d4ebdf0fc620df2bfb
+      internalID: -827122484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_17"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 178
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0690e1c71b8919b4ca048298aaf16ce5
+      internalID: 2080375383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_18"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 178
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f3fc35c1f6f4644a451ad4b436850b
+      internalID: -703559778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_19"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 178
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a77895bd10ebd47bfc6bdd72c104b4
+      internalID: -783226822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_20"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 178
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18808a737fa61e84eaf3d1613a95461e
+      internalID: 232330447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_21"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f26da4a506ca9c4bb422649a3b3f594
+      internalID: 1342093415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_22"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 164
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07798489181780246bd3e2d373afbff3
+      internalID: -973777032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_23"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 164
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e094b3e5654390141b80e46104502a21
+      internalID: -91095971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_24"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 164
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ccc16b66e05854598e40f449f86bf9
+      internalID: 438288618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_25"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 164
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b94107192d8f446ad87111b8ff7bf7
+      internalID: 423250586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_26"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 164
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2fee96ba01bd846afeaa63c911ed9b
+      internalID: -8253746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_27"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 164
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02230492e7d38f1468205bfd4b34e93e
+      internalID: 282967668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_28"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568a057289f6a2e48b2255882462a9b2
+      internalID: -1845251589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_29"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 150
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0802010b76ad2242afb9465f8c56967
+      internalID: 1701743873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_30"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 150
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc7b0ea4289d3247aba864669b89108
+      internalID: -1479007405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_31"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 150
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ecea37590579349ba758327727a569
+      internalID: 1968275830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_32"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 150
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93535a38263669b4d9c8fb115b19e457
+      internalID: -2085102277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_33"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 150
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5126a95e9e3b2034c826282d6d66ba76
+      internalID: -1413330862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_34"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 150
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43d45af70178d2408a919f6c5076725
+      internalID: -1215009452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_35"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d434493d530a6174dbe3eba7e1af369c
+      internalID: -647027133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_36"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe2687f604ad474491e6cf1bf47bb52
+      internalID: 1945161119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_37"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bb6dc4914f2074f8ed55122a78eccb
+      internalID: -757068080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_38"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0f01d5f6bd6f74c8b9a6b8cc882d4a
+      internalID: 995141385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_39"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83166cf9ed706af478ed76cff8be03f7
+      internalID: -138570438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_40"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd67f1b9bf4f6ff48be65b17f97df0e6
+      internalID: -1269357789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_41"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 136
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16c9ef9d8666a44fb4a578dffcb514b
+      internalID: -759616381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_42"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7432040637aba594e888f1b5d00f9a51
+      internalID: -97689853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_43"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 122
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207803f532fd28c4ea871c621242e799
+      internalID: 2100959214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_44"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 122
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccb90298165b344b862173af19ae463
+      internalID: 1419003110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_45"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 122
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd5291930e0c7a4db1198d6ad3156d1
+      internalID: 1023929182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_46"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 122
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0795c6eaf4211248a80f99777ef43dc
+      internalID: 1651184926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_47"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 122
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f77e6d058b2e794e9cfefd7c3a166a1
+      internalID: 116388575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_48"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 122
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f023e072cf7a648aec456b6a6c5c91
+      internalID: -447338764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_49"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f189c2e70006e4d8c2e29b89e0b262
+      internalID: -29712212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_50"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155b17c3703452e4793b160a08cfa88f
+      internalID: 928785281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_51"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc20e57da4f589c4f887f276f78908f9
+      internalID: 116015373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_52"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb28ed2174bafd242ac5f90bbbcc1c7e
+      internalID: 1483734069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_53"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427434d1aad28d842844ad62daf17f37
+      internalID: 90944569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_54"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b55065565f554844903164d7c04d890
+      internalID: 277999221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_55"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1026220969c80044aafdbc8d80e93041
+      internalID: 2024749689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_56"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c2234bcbed4bd4e98f2933591bcc3f
+      internalID: -2006926685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_57"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4e1e6a6d5ec5444983549b8d27db2d
+      internalID: 1000727406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_58"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e794e8473f63f4a925048ba60c183e
+      internalID: -1623696135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_59"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87f9b9686e3ef249b54f1ccd0242f96
+      internalID: -2122368514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_60"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ab84f694cabb5468f38734cbdd05b0
+      internalID: -1673469619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_61"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b9179c3c4afd345b28d3b9b702f91c
+      internalID: -1315637223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_62"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c85a8556e1753d4886ffccf6944191d
+      internalID: -286073589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_63"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d6460ad5b5ca142ba6d56d85dcb417
+      internalID: 862111272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_64"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbd892524bc37a4d87840456dd1a810
+      internalID: -1449188169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_65"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdbfc45036fe1645b91ebe1fc4c74fb
+      internalID: 720372584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_66"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428fa97dc729400458f12d6065d420ff
+      internalID: -1479572609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_67"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bc1404fa57a0943b5b8a1580223be8
+      internalID: 2068536059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_68"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b556afb9fae17344a3e9fa65c84953c
+      internalID: -75384744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "tiles ch\xE3o e parede_69"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833027deb7e64b24389c7efcc7ee2fcf
+      internalID: 2095428872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "tiles ch\xE3o e parede_0": -143018208
+      "tiles ch\xE3o e parede_1": -1090917311
+      "tiles ch\xE3o e parede_10": -1456577570
+      "tiles ch\xE3o e parede_11": -294568471
+      "tiles ch\xE3o e parede_12": 347760791
+      "tiles ch\xE3o e parede_13": -1641743386
+      "tiles ch\xE3o e parede_14": 2002341546
+      "tiles ch\xE3o e parede_15": -308473239
+      "tiles ch\xE3o e parede_16": -827122484
+      "tiles ch\xE3o e parede_17": 2080375383
+      "tiles ch\xE3o e parede_18": -703559778
+      "tiles ch\xE3o e parede_19": -783226822
+      "tiles ch\xE3o e parede_2": -2015277642
+      "tiles ch\xE3o e parede_20": 232330447
+      "tiles ch\xE3o e parede_21": 1342093415
+      "tiles ch\xE3o e parede_22": -973777032
+      "tiles ch\xE3o e parede_23": -91095971
+      "tiles ch\xE3o e parede_24": 438288618
+      "tiles ch\xE3o e parede_25": 423250586
+      "tiles ch\xE3o e parede_26": -8253746
+      "tiles ch\xE3o e parede_27": 282967668
+      "tiles ch\xE3o e parede_28": -1845251589
+      "tiles ch\xE3o e parede_29": 1701743873
+      "tiles ch\xE3o e parede_3": 1980619406
+      "tiles ch\xE3o e parede_30": -1479007405
+      "tiles ch\xE3o e parede_31": 1968275830
+      "tiles ch\xE3o e parede_32": -2085102277
+      "tiles ch\xE3o e parede_33": -1413330862
+      "tiles ch\xE3o e parede_34": -1215009452
+      "tiles ch\xE3o e parede_35": -647027133
+      "tiles ch\xE3o e parede_36": 1945161119
+      "tiles ch\xE3o e parede_37": -757068080
+      "tiles ch\xE3o e parede_38": 995141385
+      "tiles ch\xE3o e parede_39": -138570438
+      "tiles ch\xE3o e parede_4": -94963817
+      "tiles ch\xE3o e parede_40": -1269357789
+      "tiles ch\xE3o e parede_41": -759616381
+      "tiles ch\xE3o e parede_42": -97689853
+      "tiles ch\xE3o e parede_43": 2100959214
+      "tiles ch\xE3o e parede_44": 1419003110
+      "tiles ch\xE3o e parede_45": 1023929182
+      "tiles ch\xE3o e parede_46": 1651184926
+      "tiles ch\xE3o e parede_47": 116388575
+      "tiles ch\xE3o e parede_48": -447338764
+      "tiles ch\xE3o e parede_49": -29712212
+      "tiles ch\xE3o e parede_5": 1575571343
+      "tiles ch\xE3o e parede_50": 928785281
+      "tiles ch\xE3o e parede_51": 116015373
+      "tiles ch\xE3o e parede_52": 1483734069
+      "tiles ch\xE3o e parede_53": 90944569
+      "tiles ch\xE3o e parede_54": 277999221
+      "tiles ch\xE3o e parede_55": 2024749689
+      "tiles ch\xE3o e parede_56": -2006926685
+      "tiles ch\xE3o e parede_57": 1000727406
+      "tiles ch\xE3o e parede_58": -1623696135
+      "tiles ch\xE3o e parede_59": -2122368514
+      "tiles ch\xE3o e parede_6": 1837022391
+      "tiles ch\xE3o e parede_60": -1673469619
+      "tiles ch\xE3o e parede_61": -1315637223
+      "tiles ch\xE3o e parede_62": -286073589
+      "tiles ch\xE3o e parede_63": 862111272
+      "tiles ch\xE3o e parede_64": -1449188169
+      "tiles ch\xE3o e parede_65": 720372584
+      "tiles ch\xE3o e parede_66": -1479572609
+      "tiles ch\xE3o e parede_67": 2068536059
+      "tiles ch\xE3o e parede_68": -75384744
+      "tiles ch\xE3o e parede_69": 2095428872
+      "tiles ch\xE3o e parede_7": 270494493
+      "tiles ch\xE3o e parede_8": 1331360960
+      "tiles ch\xE3o e parede_9": -687131493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

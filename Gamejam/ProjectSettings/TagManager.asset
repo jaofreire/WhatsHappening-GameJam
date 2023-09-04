@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - Door
+  - CameraZoneEyeMonster
+  - CameraMonsterRunner
+  - FinalScene
+  - PuzzleObj
+  - CameraZoneInitial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - ground
+  - Interactive
+  - PuzzleObject
+  - CheckPoint
+  - GameOver
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1406463093
+    locked: 0
+  - name: wall
+    uniqueID: 4026371025
+    locked: 0
+  - name: ground
+    uniqueID: 3754991851
+    locked: 0
+  - name: Objects
+    uniqueID: 1719483787
+    locked: 0
+  - name: Mobiles
+    uniqueID: 3743036709
+    locked: 0
+  - name: Player
+    uniqueID: 2475739883
+    locked: 0
+  - name: Monster
+    uniqueID: 3989729147
+    locked: 0
